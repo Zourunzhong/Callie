@@ -15,9 +15,7 @@ def filterer(f,lst):
     
 
 '========================================================================================================================================'
-url = 'https://coursemology.org/users/sign_in'
-email = 'e0425978@u.nus.edu'
-password = 'slpypnda'
+
 
 s_arg = sys.argv
 
