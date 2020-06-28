@@ -5,4 +5,4 @@
 - cal_rdr_w_input.py
     - parse .ics files exported from nusmods, and produce a .json file for Postgresql database before frontend requests for it to initialise the calender object
 
-![callie](https://github.com/slpypnda/Callie/blob/master/callie.PNG)
+![callie](https://github.com/slpypnda/Callie/blob/master/Callie_Poster.png)
